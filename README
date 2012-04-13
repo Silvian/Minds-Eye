@@ -1,0 +1,12 @@
+Ok so this will be a project writen in python, the GUI will be built using GTK+
+and in all fairness just be aimed at Ubuntu.
+
+The features I want it to have are:
+	A slick way to upload files to a user's home directory
+	A feed from Facebook
+	A feed from Twitter (Hopefully someone will start tweeting)
+	Maybe a way to connect to IRC on minds.. very doubtful about that
+	Desktop Notifications for the feeds would be nice
+
+Right now I would be happy to get stuff pulled from FB and Twitter and not have
+the abbility to upload for a while.
